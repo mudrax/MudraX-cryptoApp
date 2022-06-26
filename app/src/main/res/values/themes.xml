@@ -1,0 +1,17 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.MudraXCrypto" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/blue_fourth</item>
+        <item name="colorPrimaryVariant">@color/light_blue_third</item>
+        <item name="colorOnPrimary">@color/bluish_light_second</item>
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">@color/blue_last_second_pallete</item>
+        <item name="colorSecondaryVariant">@color/light_blue_pallete_two_light</item>
+        <item name="colorOnSecondary">#6A6969</item>
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor" tools:targetApi="l">?attr/colorPrimaryVariant</item>
+        <!-- Customize your theme here. -->
+        <item name="fontFamily">@font/nunito_medium</item>
+    </style>
+</resources>

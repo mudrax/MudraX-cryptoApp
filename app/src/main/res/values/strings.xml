@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">MudraX Crypto</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="crypto_information">Crypto Information</string>
+    <string name="not_found">Not Found</string>
+    <string name="dummy_content_description">dummy content description</string>
+    <string name="currency_chart_is_shown_here">currency chart is shown here</string>
+    <string name="cryptocurrency_image">Cryptocurrency image</string>
+    <string name="empty_watchlist">Empty Watchlist</string>
+    <string name="_1m">1mon</string>
+    <string name="_1w">1week</string>
+    <string name="_1d">1day</string>
+    <string name="_4h">4hr</string>
+    <string name="_1h">1hr</string>
+    <string name="_15m">15min</string>
+</resources>
